@@ -1,5 +1,8 @@
 ## Hi there 👋
-My name is Rodrigo, I am a man passionate about technology. I have knowledge in C++, Java and MySQL.
+I am a man passionate about technology. What God did not create was created by the engineer.
+
+I like soccer and being with my family. I love sunsets.
+I love helping other people.
 
 LENGUAGES THAT I MEET:
 
