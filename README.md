@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Rodrigo, I am a man passionate about technology. I have knowledge in C++, Java.
 <!--
 **elrorro420/elrorro420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
