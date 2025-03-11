@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Rodrigo, I am a man passionate about technology. I have knowledge in C++, Java.
+My name is Rodrigo, I am a man passionate about technology. I have knowledge in C++, Java and MySQL.
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
